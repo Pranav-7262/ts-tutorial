@@ -1,0 +1,13 @@
+# Node modules
+node_modules/
+# TypeScript output
+dist/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+.github
+.github/appmod.appcat
