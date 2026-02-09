@@ -3,3 +3,9 @@ export interface Chai {
   name: string;
   price: number;
 }
+
+export interface Ingredients {
+  name: string;
+  quantity: string;
+  calories?: number;
+}
